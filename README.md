@@ -64,7 +64,7 @@ I'm a passionate Full Stack Developer. I specialize in creating dynamic web appl
 - **Mobile:** +918608220198
 - **Email:** [gobinathrajendhiran@gmail.com](mailto:gobinathrajendhiran@gmail.com)
 - **LinkedIn:** [Gobinath Rajendhiran](https://www.linkedin.com/in/gobinath-rajendhiran-6b85b421a/)
-- **Portfolio:** [my website](https://www.gobinathrajendhiran.w3spaces.com)
+- **Portfolio:** [my website]([https://www.gobinathrajendhiran.w3spaces.com](https://gobinathrajendhiran.w3spaces.com))
 - **Twitter:** [@gobinathrajendhiran](link-to-twitter)
 
 Let's connect and collaborate on exciting projects together! 😄
